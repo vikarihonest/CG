@@ -47,4 +47,11 @@
     "icon": "ic_filex",
     "flag": false
   }
+  ,
+    {
+    "name": "Zip",
+    "desc": "Compress",
+    "icon": "ic_filex",
+    "flag": false
+  }
 ]
