@@ -54,4 +54,12 @@
     "icon": "ic_filex",
     "flag": false
   }
+,
+    {
+    "name": "Iso",
+    "desc": "Compress",
+    "icon": "ic_filex",
+    "flag": false
+  }
+  
 ]
