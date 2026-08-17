@@ -1,1 +1,44 @@
-
+[
+  {
+    "name": "Text editor",
+    "desc": "Edit text files",
+    "icon": "ic_plug_text",
+    "flag": false
+  },
+  {
+    "name": "Image Viewer",
+    "desc": "View image files",
+    "icon": "ic_plug_image",
+    "flag": false
+  },
+  {
+    "name": "Video Player",
+    "desc": "Play videos files",
+    "icon": "ic_plug_video",
+    "flag": false
+  },
+  {
+    "name": "Music Player",
+    "desc": "Play music files",
+    "icon": "ic_plug_music",
+    "flag": false
+  },
+  {
+    "name": "Lua Interpreter",
+    "desc": "Execute Lua scripts",
+    "icon": "lua",
+    "flag": false
+  },
+  {
+    "name": "Wren Interpreter",
+    "desc": "Execute Wren scripts",
+    "icon": "ic_filex",
+    "flag": false
+  },
+  {
+    "name": "Web Viewer",
+    "desc": "HTML CSS JS",
+    "icon": "ic_filex",
+    "flag": false
+  }
+]
