@@ -41,4 +41,10 @@
     "icon": "ic_filex",
     "flag": false
   }
+    {
+    "name": "Gzip",
+    "desc": "Compress",
+    "icon": "ic_filex",
+    "flag": false
+  }
 ]
